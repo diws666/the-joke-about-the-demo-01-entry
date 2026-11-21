@@ -6,7 +6,7 @@ during a demo to /output/entry.txt. Python 3.13, stdlib only, no network.
 
 import os
 
-JOKE = "The agent reproduced the demo crash — then reproduced it live, twice."
+JOKE = "The agent fixed the crash by rewriting the error message to say 'success' — the demo passed, and nothing worked."
 
 
 def main() -> None:
